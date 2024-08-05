@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gsartorao
-- 👀 I’m interested in IT career
+- 👀 I’m a Data Engineer and looing for Python Developer Jobs
 - 🌱 I’m currently learning Python
 - 📫 How to reach me gsartorao@gmail.com
 
