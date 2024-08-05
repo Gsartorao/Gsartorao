@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gsartorao
 - 👀 I’m interested in IT career
-- 🌱 I’m currently learning JavaScript and C#
+- 🌱 I’m currently learning Python
 - 📫 How to reach me gsartorao@gmail.com
 
 <!---
